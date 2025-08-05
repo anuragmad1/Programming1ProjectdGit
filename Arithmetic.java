@@ -14,7 +14,7 @@ public class Arithmetic {
 		int sum = a + b;
 		int diff = a - b;
 		int multiplication = a * b;
-		double quotient = a/b;
+		int quotient = a/b;
 		int rem = a%b;
 
 		System.out.println(sum);
