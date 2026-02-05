@@ -14,7 +14,7 @@ public class Arithmetic {
 		int addition = a + b;
 		int subtraction = a - b; 
 		int multiplication = a * b;
-		double division = a / b;
+		int division = a / b;
 		int remainder = a % b;
 
 		System.out.println(addition);
