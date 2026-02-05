@@ -17,11 +17,11 @@ public class Arithmetic {
 		double division = a / b;
 		int remainder = a % b;
 
-		System.out.print(addition);
-		System.out.print(subtraction);
-		System.out.print(multiplication);
-		System.out.print(division);
-		System.out.print(remainder);
+		System.out.println(addition);
+		System.out.println(subtraction);
+		System.out.println(multiplication);
+		System.out.println(division);
+		System.out.println(remainder);
 		
 	}
 	
